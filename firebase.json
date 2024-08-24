@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "target": "live",
-    "public": "dist",
+    "public": "dist/angular-crud",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
