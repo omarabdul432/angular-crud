@@ -1,5 +1,17 @@
 {
   "projects": {
     "default": "angular-firebase-crud-c54f7"
-  }
+  },
+  "staging": "angular-firebase-crud-c54f7",
+  "targets": {
+    "angular-firebase-crud-c54f7": {
+      "hosting": {
+        "staging": [
+          "angular-firebase-crud-c54f7"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
